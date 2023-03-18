@@ -4,7 +4,7 @@
 
 ---
 #### Languages
-- ![java](https://img.shields.io/badge/-Python-5d7dff?style=flat-square&logo=python)
+- ![java](https://img.shields.io/badge/-Python-f7ff80?style=flat-square&logo=python)
 
 #### IDE
 - ![ide](https://img.shields.io/badge/-Visual_Studio_Code-5d7dff?style=flat-square&logo=visualstudiocode)
