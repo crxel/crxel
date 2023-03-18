@@ -17,6 +17,7 @@
 ---
 <p align="center">
     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-crxelty_9999-5d7dff?style=flat-square&logo=discord"/></a>
+    <a href="https://youtube.com/@crxelty"><img src="https://img.shields.io/badge/-crxelty-5d7dff?style=flat-square&logo=youtube"/></a>
 </p>
 
 ---
