@@ -4,10 +4,10 @@
 
 ---
 #### Languages
-- ![java](https://img.shields.io/badge/-Python-F50069?style=flat-square&logo=python)
+- ![java](https://img.shields.io/badge/-Python-5d7dff?style=flat-square&logo=python)
 
 #### IDE
-- ![ide](https://img.shields.io/badge/-Intellij_Idea-F50069?style=flat-square&logo=intellij-idea)
+- ![ide](https://img.shields.io/badge/-Visual_Studio_Code-5d7dff?style=flat-square&logo=visualstudiocode)
 
 #### What i'm into
 - Programming
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-    <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-crxelty_9999-F50069?style=flat-square&logo=discord"/></a>
+    <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-crxelty_9999-5d7dff?style=flat-square&logo=discord"/></a>
 </p>
 
 ---
