@@ -19,10 +19,5 @@
     <a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-crxelty_9999-5d7dff?style=flat-square&logo=discord"/></a>
 </p>
----
-<p align="center">
-     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://discordapp.com/api/guilds/1081238770772344863/widget.png?style=banner2"/></a>
-     <a href="https://discord.gg/Tw2AmKE8B6"><img src="https://discordapp.com/api/guilds/819123150176124959/widget.png?style=banner2"/></a>
-     <a href="https://discord.gg/tRU27KtPAZ"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
-</p>
+
 ---
