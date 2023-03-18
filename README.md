@@ -14,9 +14,8 @@
 - UI Design
 - Minecraft Funnies
 ---
-
+<a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
 <p align="center">
-    <a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-crxelty_9999-5d7dff?style=flat-square&logo=discord"/></a>
 </p>
 
