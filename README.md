@@ -3,7 +3,7 @@
 </p>
 
 ---
-<a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
+<a href="https://youtube.com/@crxelty"><img alt="we love wik" src="https://media.tenor.com/CBr4RlrqmroAAAAS/trolling-minecraft.gif" align="right"/>
 #### Languages
 - ![java](https://img.shields.io/badge/-Python-f7ff80?style=flat-square&logo=python)
     
