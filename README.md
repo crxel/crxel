@@ -5,7 +5,7 @@
 ---
 #### Languages
 - ![java](https://img.shields.io/badge/-Python-f7ff80?style=flat-square&logo=python)
-
+<a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
 #### IDE
 - ![ide](https://img.shields.io/badge/-Visual_Studio_Code-5d7dff?style=flat-square&logo=visualstudiocode)
 
@@ -14,7 +14,6 @@
 - UI Design
 - Minecraft Funnies
 ---
-<a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
 <p align="center">
     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-crxelty_9999-5d7dff?style=flat-square&logo=discord"/></a>
 </p>
