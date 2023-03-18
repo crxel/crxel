@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm crxelty</h1>
 <h3 align="center">A retarded python developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crxelty" alt="crxelty" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crxel" alt="crxelty" /></a> </p>
 
 - 🔭 I’m currently working on [UwUDoor](https://uwudoor.wtf)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/crxelty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crxelty" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@crxelty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crxelty" height="30" width="40" /></a>
 <a href="https://discord.gg/MAWSTv3PRK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MAWSTv3PRK" height="30" width="40" /></a>
 </p>
 
