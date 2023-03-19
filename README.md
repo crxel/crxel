@@ -14,6 +14,9 @@
 - Programming
 - UI Design
 - Minecraft Funnies
+- Talking with People
+- Doing stupid shit
+- anime women
 ---
 <p align="center">
     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-Rats_LLC-5d7dff?style=flat-square&logo=discord"/></a>
