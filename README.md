@@ -13,10 +13,10 @@
 #### What i'm into
 - Programming
 - UI Design
-- Minecraft Funnies
+- Cyber Security
 - Talking with People
-- Doing stupid shit
-- anime women
+- Doing retardations
+- Women
 ---
 <p align="center">
     <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-Rats_LLC-5d7dff?style=flat-square&logo=discord"/></a>
