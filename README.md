@@ -1,26 +1,24 @@
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crxel&show_icons=true&include_all_commits=true&count_private=true"/>
-</p>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm crxelty
 
----
-<a href="https://youtube.com/@crxelty"><img alt="we love wik" src="https://i.imgur.com/F2KLSsM.gif" align="right"/>
-#### Languages
-- ![java](https://img.shields.io/badge/-Python-f7ff80?style=flat-square&logo=python)
+```python
+import time
+
+def main():
+    print("kys now")
+    main()
     
-#### IDE
-- ![ide](https://img.shields.io/badge/-Visual_Studio_Code-5d7dff?style=flat-square&logo=visualstudiocode)
+main()
 
-#### What i'm into
-- Programming
-- UI Design
-- Cyber Security
-- Talking with People
-- Doing retardations
-- Women
----
-<p align="center">
-    <a href="https://discord.gg/MAWSTv3PRK"><img src="https://img.shields.io/badge/-Rats_LLC-5d7dff?style=flat-square&logo=discord"/></a>
-    <a href="https://youtube.com/@crxelty"><img src="https://img.shields.io/badge/-crxelty-5d7dff?style=flat-square&logo=youtube"/></a>
+```
+
+## 💮 Other
+
+<p>
+ <img src="https://komarev.com/ghpvc/?username=crxel&color=blue"/>
 </p>
 
----
+<p>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=315dgbwyxkswhukx4dasqh3yiw6i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=03d7fc"/>
+</p>
+
+https://paypal.me/ggsk1d *You can make a donation, i will buy a coffee* ☕
